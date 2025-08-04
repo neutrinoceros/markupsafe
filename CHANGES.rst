@@ -5,6 +5,7 @@ Unreleased
 
 -   Drop support for Python 3.9.
 -   Remove previously deprecated code.
+-   Build wheels for CPython 3.14. :issue:`503`
 
 
 Version 3.0.3
