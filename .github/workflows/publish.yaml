@@ -1,7 +1,6 @@
 name: Publish
 on:
   push:
-    tags: ['*']
   # When a new version of Python is released, the workflow can be run manually to
   # publish new wheels for the existing tag.
   workflow_dispatch:
